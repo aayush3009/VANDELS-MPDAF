@@ -13,6 +13,3 @@ Pre-requisites for using the MPDAF notebook:
 MPDAF can be found here: https://mpdaf.readthedocs.io/en/latest/installation.html. It comes with a few requirements too so just follow the instructions on the installation page to get it up and running.
 
 Finally, don't hesitate to contact me if you run into any troubles or have general questions!
-
-Aayush
-Feb 2019
