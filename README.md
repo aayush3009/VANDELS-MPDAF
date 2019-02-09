@@ -14,4 +14,5 @@ MPDAF can be found here: https://mpdaf.readthedocs.io/en/latest/installation.htm
 
 Finally, don't hesitate to contact me if you run into any troubles or have general questions!
 
-Aayush Saxena
+Aayush
+Feb 2019
