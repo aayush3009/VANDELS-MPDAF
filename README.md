@@ -1,7 +1,5 @@
 # VANDELS-MPDAF
-This is an example of analysing VANDELS 1D spectra using tools provided by MPDAF based on ipython (jupyter). Jupyter notebook can be installed following the instructions here: https://jupyter.readthedocs.io/en/latest/install.html
-
-This notebook is based on Python 3.6.
+This is an example/tutorial to analyse VANDELS 1D rest-frame UV spectra using tools provided by MPDAF based on ipython (jupyter). Jupyter notebook can be installed following the instructions here: https://jupyter.readthedocs.io/en/latest/install.html. This notebook is based on Python 3.X.
 
 Pre-requisites for using the MPDAF notebook:
 - numpy
